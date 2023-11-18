@@ -1,0 +1,21 @@
+﻿@model Car
+
+<head>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<div class="car-container">
+    <img src="@Model.ImageThumbnailUrl" alt="" class="car-image">
+    <div class="car-details">
+        <div class="price">@Model.Price.ToString("c")</div>
+        <h3>
+            <a asp-controller="Car" asp-action="Details" asp-route-carId="@Model.CarId">@Model.Make.MakeName @Model.Model</a>
+        </h3>
+    </div>
+    <div class="addToCart text-right">
+        <p class="button">
+            <a class="add" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-carId="@Model.CarId">
+                Add to cart
+            </a>
+        </p>
+    </div>
+</div>

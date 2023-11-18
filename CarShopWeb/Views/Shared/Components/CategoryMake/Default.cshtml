@@ -1,0 +1,27 @@
+﻿
+<head>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+<div class="dropdown-container">
+    <a href="#" id="carsToggle">Cars</a>
+    <ul id="carsList">
+        @foreach (var make in Model)
+        {
+            <li>
+                <a asp-controller="Car"
+                   asp-action="List"
+                   asp-route-make="@make.MakeName">@make.MakeName </a>
+            </li>
+        }
+        <li>
+            <a asp-controller="Car" asp-action="List" asp-route-make="">View all makes</a>
+        </li>
+    </ul>
+</div>
+
+<script>
+    document.getElementById('carsToggle').addEventListener('click', function () {
+        var carsList = document.getElementById('carsList');
+        carsList.style.display = (carsList.style.display === 'none' || carsList.style.display === '') ? 'block' : 'none';
+    });
+</script>

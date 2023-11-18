@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="container">
+            <div class="navigation">
+                <ul>
+                    <li><a href="/Home/Index">Home</a></li>
+                    <li> @await Component.InvokeAsync("CategoryMake")</li>
+                </ul>
+            </div>
+            <form class="navbar-form navbar-right" asp-controller="Car" asp-action="Search" method="get">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search for a car" name="searchString" value="@ViewData["searchString"]">
+                </div>
+            </form>
+            <div class="shopping-cart">
+                <ul>
+                    @await Component.InvokeAsync("ShoppingCartSummary")
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

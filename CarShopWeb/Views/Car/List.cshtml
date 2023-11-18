@@ -1,0 +1,12 @@
+﻿<head>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+</head>
+
+<h2>@Model.CurrentMake</h2>
+
+@{
+    foreach (Car car in Model.Cars)
+    {
+        @await Html.PartialAsync("CarSummary", car)
+    }
+}

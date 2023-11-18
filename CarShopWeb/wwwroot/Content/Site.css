@@ -1,0 +1,389 @@
+﻿﻿#cartButton {
+    margin-right: 8px;
+}
+
+nav {
+    padding: 8px;
+}
+
+.loginForm {
+    margin: 10%;
+}
+
+.checkoutForm {
+    margin-top: 5%;
+}
+
+.orderForm {
+    margin-top: 5%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #2fa4e7;
+}
+
+a.remove {
+    text-decoration: none;
+}
+
+    a.remove:hover {
+        color: blue;
+    }
+
+.center_div {
+    margin: 0 auto;
+    width: 80%
+}
+
+.marginTop {
+    margin-top: 5%;
+}
+
+.marginTop1 {
+    margin-top: 2%;
+}
+
+.formPullRightButton {
+    margin-right: 10px !important
+}
+
+.carousel img {
+    min-width: 100%;
+}
+
+
+.car-container {
+    float: inline-start;
+    width: 20.00%;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    transition: transform 0.3s ease-in-out;
+}
+
+    .car-container:hover {
+        transform: scale(1.05);
+    }
+
+.car-image {
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+}
+
+.car-details {
+    text-align: center;
+    padding: 15px;
+}
+
+.price {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #3498db;
+}
+
+h3 {
+    margin-top: 10px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+
+/* Style for the form container */
+.orderForm {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+    /* Style for the form headings */
+    .orderForm h3 {
+        color: #333;
+    }
+
+/* Style for form labels */
+.form-group label {
+    font-weight: bold;
+}
+
+/* Style for form inputs */
+.form-control {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style for the submit button */
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Optional: Add some spacing between elements */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.text-danger {
+    color: #ff100f;
+}
+
+
+.dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+#carsToggle {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    #carsToggle::after {
+        content: '▼';
+        margin-left: 5px;
+    }
+
+#carsList {
+    display: none;
+    position: absolute;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+    #carsList li {
+        padding: 8px;
+        border-bottom: 1px solid #ccc;
+    }
+
+        #carsList li:last-child {
+            border-bottom: none;
+        }
+
+.add {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: #28a745;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+
+/* Reset some default styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the navigation bar */
+.navbar {
+    background-color: #ecf0f1;
+    color: #fff;
+    padding: 15px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    color: #fff;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.navigation ul {
+    list-style: none;
+    display: flex;
+    padding-left: 20px;
+}
+
+.navigation li {
+    margin-right: 20px;
+}
+
+.navigation a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.shopping-cart ul {
+    list-style: none;
+    display: flex;
+}
+
+/* Add some spacing to the shopping cart icon */
+.shopping-cart {
+    margin-left: auto;
+    padding-right: 20px
+}
+
+    /* Style for the shopping cart icon */
+    .shopping-cart a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 1.2em;
+    }
+
+        /* Add some styling when hovering over links */
+        .navigation a:hover, .shopping-cart a:hover {
+            text-decoration: underline;
+        }
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+.checkoutForm {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2, h4 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.remove {
+    color: #d9534f;
+    cursor: pointer;
+}
+
+    .remove:hover {
+        text-decoration: underline;
+    }
+
+.btn-group {
+    margin-top: 15px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #5bc0de;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background-color: #31b0d5;
+    }
+
+.dropdown-menu {
+    min-width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .dropdown-menu li {
+        padding: 10px;
+        transition: background-color 0.3s;
+    }
+
+        .dropdown-menu li:hover {
+            background-color: #f5f5f5;
+        }
+
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #333
+}
+
+.btn-default {
+    background-color: #f0f0f0;
+    color: #333;
+    border: 1px solid #ccc;
+}
+
+.btn-success {
+    background-color: #5cb85c;
+    color: #fff;
+    border: 1px solid #4cae4c;
+}
+
+    .btn-success:hover {
+        background-color: #4cae4c;
+    }
+
+.btn-group {
+    margin-right: 10px;
+}
+
+.pull-right {
+    float: right;
+}

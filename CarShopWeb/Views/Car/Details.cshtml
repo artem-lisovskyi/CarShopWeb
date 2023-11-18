@@ -1,0 +1,22 @@
+﻿@model Car
+
+<div class="container marginTop">
+    <div class="row">
+        <div class="card">
+            <div class="text-center view overlay hm-white-slight">
+                <img src="@Model.ImageUrl" class="img-fluid" alt="">
+                <a href="#">
+                    <div class="mask waves-effect waves-light"></div>
+                </a>
+            </div>
+            <div class="card-block">
+                <h4 class="card-title">@Model.Make.MakeName @Model.Model</h4>
+                <p class="card-text">@Model.Description.</p>
+                <a asp-controller="Car" asp-action="List" class="btn btn-default">Show all cars</a>
+                <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-carId="@Model.CarId">
+                    Add @Model.Make.MakeName to cart
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

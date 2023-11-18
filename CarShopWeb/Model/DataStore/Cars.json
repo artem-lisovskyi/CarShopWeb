@@ -1,0 +1,302 @@
+[
+  {
+    "CarId": 1,
+    "Make": {
+      "MakeId": 1,
+      "MakeName": "Audi"
+    },
+    "Model": "A5",
+    "Description": "The Audi A5 is a luxury compact car with a sleek design, available in coupe, convertible, and sportback variants. It features a well-crafted interior with high-quality materials and advanced technology. The A5 is known for its smooth performance, offering a range of engines that balance power and efficiency. With precise handling and a comfortable ride, it caters to those seeking a blend of style and driving dynamics. Explore Audi's official website or reputable car booking sites for detailed specifications and customization options.",
+    "Price": 51485.0,
+    "Color": "White",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/b2f1eedb-70bb-45a3-bb53-bcf8ad24b6f1?ts=1699933777&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/b2f1eedb-70bb-45a3-bb53-bcf8ad24b6f1?ts=1699933777&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 2,
+    "Make": {
+      "MakeId": 2,
+      "MakeName": "BMW"
+    },
+    "Model": "X7",
+    "Description": "The BMW X7 is a luxury SUV that combines a powerful performance with a spacious and upscale interior. It features a range of robust engines, providing ample horsepower and a smooth ride. The X7's exterior design is bold and distinctive, reflecting a commanding presence on the road. Inside, the cabin is well-crafted with high-quality materials, offering a comfortable and luxurious driving experience. The SUV comes equipped with advanced technology and infotainment features, contributing to a modern and connected feel. With its three rows of seating, the BMW X7 accommodates passengers with ease, making it a suitable choice for those seeking both performance and comfort in a premium SUV.",
+    "Price": 68500.0,
+    "Color": "Gray",
+    "VolumeOfEngine": 4.4,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/659b3633-beda-455c-b1fa-f0c80d90dad0?ts=1699856778&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/659b3633-beda-455c-b1fa-f0c80d90dad0?ts=1699856778&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": true
+  },
+  {
+    "CarId": 3,
+    "Make": {
+      "MakeId": 3,
+      "MakeName": "Chevrolet"
+    },
+    "Model": "Camaro",
+    "Description": "The Chevrolet Camaro is a two-door muscle car known for its aggressive styling and high-performance capabilities. It offers a range of powerful engines, including V6 and V8 options, delivering impressive speed and acceleration. With a focus on performance, the Camaro features a sport-tuned suspension and responsive handling. The interior is driver-oriented, emphasizing the car's sporty nature. It competes with other muscle cars in the market, providing a thrilling driving experience for enthusiasts.",
+    "Price": 46475.0,
+    "Color": "Blue",
+    "VolumeOfEngine": 6.2,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/56dc9d07-2540-4066-adcd-077a78f5e32a?ts=1698806162&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/56dc9d07-2540-4066-adcd-077a78f5e32a?ts=1698806162&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": true
+  },
+  {
+    "CarId": 4,
+    "Make": {
+      "MakeId": 4,
+      "MakeName": "Ford"
+    },
+    "Model": "Focus",
+    "Description": "The Ford Focus is a compact car produced by Ford. It's available in various body styles, including sedan, hatchback, and wagon. The car is known for its practicality, fuel efficiency, and agile handling. The interior is functional, with standard features like infotainment systems and safety features. Engine options vary, offering a mix of performance and fuel economy. For specific details and the latest information, visit the official Ford website or consult a dealership.",
+    "Price": 10999.0,
+    "Color": "Red",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/11cf38d0-cfba-4dca-9fd0-9f85079a8c20?ts=1699925779&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/11cf38d0-cfba-4dca-9fd0-9f85079a8c20?ts=1699925779&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": true
+  },
+  {
+    "CarId": 5,
+    "Make": {
+      "MakeId": 5,
+      "MakeName": "Hyundai"
+    },
+    "Model": "Tucson",
+    "Description": "The Hyundai Tucson is a compact SUV known for its reliability and value for money. It offers a comfortable ride, decent fuel efficiency, and a user-friendly infotainment system. The interior is well-designed with quality materials. Safety features are standard, and it generally provides a smooth driving experience. Check the official Hyundai website or authorized dealers for the most accurate and up-to-date information.",
+    "Price": 18149.0,
+    "Color": "White",
+    "VolumeOfEngine": 2.5,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/02bbd377-7906-495f-a4bf-90694ed0123c?ts=1700196575&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/02bbd377-7906-495f-a4bf-90694ed0123c?ts=1700196575&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 6,
+    "Make": {
+      "MakeId": 6,
+      "MakeName": "Lexus"
+    },
+    "Model": "NX 350h Premium",
+    "Description": "The Lexus NX 350h Premium is a hybrid SUV with a focus on luxury and efficiency. It features a hybrid powertrain, combining a gasoline engine with electric motors for improved fuel efficiency. The premium trim offers enhanced features, including advanced technology, upscale materials in the interior, and additional comfort options. Specific details may vary by model year, so it's recommended to check the official Lexus website or a dealership for the latest information on the NX 350h Premium.",
+    "Price": 52220.0,
+    "Color": "White",
+    "VolumeOfEngine": 2.5,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/da035d81-f4b4-46ce-afb4-0e380f0bbbbe?ts=1698896931&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/da035d81-f4b4-46ce-afb4-0e380f0bbbbe?ts=1698896931&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 7,
+    "Make": {
+      "MakeId": 7,
+      "MakeName": "Mazda"
+    },
+    "Model": "CX-30",
+    "Description": "The Mazda CX-30 is a compact crossover SUV with a sleek design. It offers a well-crafted interior with modern features. The vehicle is known for its agile handling and efficient fuel economy. It's suitable for urban driving and provides a comfortable ride. Check the official Mazda website or a trusted car dealership for detailed specifications and options.",
+    "Price": 30430.0,
+    "Color": "White",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/c293816e-4146-4e26-801c-286904f8f553?ts=1700279121&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/c293816e-4146-4e26-801c-286904f8f553?ts=1700279121&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 8,
+    "Make": {
+      "MakeId": 8,
+      "MakeName": "Tesla"
+    },
+    "Model": "Model 3",
+    "Description": "The Tesla Model 3 is an electric sedan known for its performance and advanced technology. It features a sleek design with a minimalist interior, dominated by a large touchscreen for controls. The car offers impressive acceleration, a long electric range, and autopilot capabilities. It's suitable for those prioritizing sustainability and cutting-edge automotive technology.",
+    "Price": 39280.0,
+    "Color": "Black",
+    "VolumeOfEngine": 0.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/c43a0cb5-d111-4caf-9eac-a3278928b6ac?ts=1700277567&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/c43a0cb5-d111-4caf-9eac-a3278928b6ac?ts=1700277567&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": true
+  },
+  {
+    "CarId": 9,
+    "Make": {
+      "MakeId": 9,
+      "MakeName": "Nissan"
+    },
+    "Model": "Micra",
+    "Description": "The Nissan Micra is a subcompact car known for its compact size and fuel efficiency. It typically offers a straightforward design with practical features. The interior is modest, providing basic functionality. Performance-wise, it's suitable for city driving. For detailed specifications and booking, visit the official Nissan website or a reputable car booking platform.",
+    "Price": 17449.0,
+    "Color": "Blue",
+    "VolumeOfEngine": 1.8,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/e2b9bea6-4f29-4fa2-bc8a-701320f2f048?ts=1700276885&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/e2b9bea6-4f29-4fa2-bc8a-701320f2f048?ts=1700276885&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 10,
+    "Make": {
+      "MakeId": 10,
+      "MakeName": "Toyota"
+    },
+    "Model": "Avalon",
+    "Description": "The Toyota Avalon is a full-size sedan known for its comfort and spacious interior. It offers a smooth ride and a quiet cabin. The car is equipped with various features, including advanced safety technology, user-friendly infotainment systems, and ample cargo space. The Avalon typically has a reliable reputation and is favored for its practicality rather than sportiness. If you're looking for a comfortable and reliable sedan with a focus on practicality, the Toyota Avalon might be a suitable choice.",
+    "Price": 21199.0,
+    "Color": "Black",
+    "VolumeOfEngine": 3.5,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/50c622c2-ee0e-47c3-8ae8-30f0c28ee115?ts=1698983897&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/50c622c2-ee0e-47c3-8ae8-30f0c28ee115?ts=1698983897&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 11,
+    "Make": {
+      "MakeId": 1,
+      "MakeName": "Audi"
+    },
+    "Model": "A6",
+    "Description": "The Audi A6 is a midsize luxury sedan known for its refined design, advanced technology, and performance. With a sleek exterior, the A6 combines elegance and aerodynamics. The interior boasts high-quality materials, spacious seating, and modern features.",
+    "Price": 78749.0,
+    "Color": "Gray",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/01c57b22-f8db-487b-a0e3-f48be72cd1c7?ts=1700278245&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/01c57b22-f8db-487b-a0e3-f48be72cd1c7?ts=1700278245&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 12,
+    "Make": {
+      "MakeId": 2,
+      "MakeName": "BMW"
+    },
+    "Model": "840d",
+    "Description": "The BMW 840d is a luxury coupe featuring a robust 3.0-liter inline-six diesel engine. It combines performance and elegance, delivering 320 horsepower and 501 lb-ft of torque. The car boasts a sleek exterior design and a high-quality interior with advanced tech features. With its responsive handling and dynamic driving experience, the BMW 840d is a compelling choice for those seeking a blend of power and sophistication.",
+    "Price": 111399.0,
+    "Color": "Black",
+    "VolumeOfEngine": 3.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/3f3b4834-ed1d-4f93-9921-b0090c2e44fb?ts=1700275830&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/3f3b4834-ed1d-4f93-9921-b0090c2e44fb?ts=1700275830&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 13,
+    "Make": {
+      "MakeId": 3,
+      "MakeName": "Chevrolet"
+    },
+    "Model": "Spark",
+    "Description": "The Chevrolet Spark is a subcompact car with a focus on affordability and fuel efficiency. It's known for its compact size, making it suitable for urban driving and easy parking. The interior is basic, emphasizing functionality over luxury. The car typically comes with a small engine, contributing to its fuel efficiency. It's a practical choice for those seeking a budget-friendly and compact vehicle for daily commuting. For detailed specifications and features, refer to the official Chevrolet website or a reliable automotive resource.",
+    "Price": 4899.0,
+    "Color": "Blue",
+    "VolumeOfEngine": 1.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/698b657a-192a-451d-8431-950e6b5bda4a?ts=1700010569&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/698b657a-192a-451d-8431-950e6b5bda4a?ts=1700010569&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 14,
+    "Make": {
+      "MakeId": 4,
+      "MakeName": "Ford"
+    },
+    "Model": "Explorer",
+    "Description": "The Ford Explorer is a midsize SUV known for its versatile functionality and ample cargo space. It typically seats seven people across three rows. The Explorer features various engine options for different performance levels. It's recognized for its towing capacity and off-road capabilities. Check the official Ford website or reputable car-selling sites for the most up-to-date and detailed information.",
+    "Price": 84849.0,
+    "Color": "Gray",
+    "VolumeOfEngine": 3.5,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/3cbcbd25-f9af-4d7b-9ed0-62093d7ddd97?ts=1700278438&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/3cbcbd25-f9af-4d7b-9ed0-62093d7ddd97?ts=1700278438&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 15,
+    "Make": {
+      "MakeId": 5,
+      "MakeName": "Hyundai"
+    },
+    "Model": "Elantra",
+    "Description": "The Hyundai Elantra is a compact sedan known for its practicality and fuel efficiency. It typically offers a comfortable interior with user-friendly technology features. Engine options vary, providing a balance between performance and fuel economy. Safety features are standard, and the overall design is contemporary. Check the official Hyundai website or reputable car review sites for detailed specifications and the latest models.",
+    "Price": 28899.0,
+    "Color": "Red",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/42847742-c261-4e99-83a0-96dd13cd1cde?ts=1695407929&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/42847742-c261-4e99-83a0-96dd13cd1cde?ts=1695407929&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 16,
+    "Make": {
+      "MakeId": 6,
+      "MakeName": "Lexus"
+    },
+    "Model": "LX 570",
+    "Description": "The Lexus LX570 is a luxury SUV known for its spacious interior, powerful V8 engine, and off-road capabilities. It features a distinctive and bold exterior design, with a prominent grille and sleek headlights. The interior is well-appointed with high-quality materials, offering comfortable seating for up to eight passengers. The vehicle is equipped with advanced technology and safety features, including a touchscreen infotainment system, navigation, and driver assistance systems. Its off-road capabilities are enhanced by features like adjustable suspension and a four-wheel-drive system. The LX570 is positioned as a premium, full-size SUV catering to those seeking a combination of luxury and rugged performance.",
+    "Price": 99500.0,
+    "Color": "White",
+    "VolumeOfEngine": 5.7,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/8af7c331-901b-4244-924c-cba53a6eb380?ts=1699927992&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/8af7c331-901b-4244-924c-cba53a6eb380?ts=1699927992&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 17,
+    "Make": {
+      "MakeId": 7,
+      "MakeName": "Mazda"
+    },
+    "Model": "MX-5",
+    "Description": "The Mazda MX-5 is a lightweight, two-seat sports car known for its agile handling and open-top driving experience. It features a sleek design, rear-wheel drive, and a responsive four-cylinder engine. The MX-5 prioritizes driving enjoyment with its balanced chassis and precise steering. It's available with a manual transmission, adding to the driving engagement. The convertible top is easy to operate, enhancing the joy of open-air driving. Overall, the MX-5 is a popular choice for enthusiasts seeking a spirited and uncomplicated driving experience.",
+    "Price": 35721.0,
+    "Color": "Black",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/1d9f6eef-9e41-4d33-bcad-fe60bc74cfe3?ts=1700276912&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/1d9f6eef-9e41-4d33-bcad-fe60bc74cfe3?ts=1700276912&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 18,
+    "Make": {
+      "MakeId": 8,
+      "MakeName": "Tesla"
+    },
+    "Model": "Model X",
+    "Description": "The Tesla Model X is an electric SUV with distinctive falcon-wing doors. It boasts impressive acceleration, long-range capabilities, and advanced autopilot features. The spacious interior accommodates up to seven passengers with optional configurations. Notable features include a large touchscreen display, cutting-edge tech, and a minimalist design. The Model X emphasizes performance, safety, and sustainability, making it a prominent choice in the electric vehicle market.",
+    "Price": 58980.0,
+    "Color": "Wight",
+    "VolumeOfEngine": 0.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/39da06f6-3d9e-4633-9d7f-9f0e9fd34bc4?ts=1700226887&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/39da06f6-3d9e-4633-9d7f-9f0e9fd34bc4?ts=1700226887&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 19,
+    "Make": {
+      "MakeId": 9,
+      "MakeName": "Nissan"
+    },
+    "Model": "GT-R",
+    "Description": "TThe Nissan GT-R is a high-performance sports car. It features a twin-turbocharged V6 engine, all-wheel drive, and advanced technology for improved handling. Known for its quick acceleration and precise handling, the GT-R has a distinct aerodynamic design. The interior is focused on the driver, with a minimalist layout emphasizing performance. Check the official Nissan website or reputable car review sites for detailed specifications and the latest information.",
+    "Price": 93839.0,
+    "Color": "Orange",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/0182559a-ee2d-4f60-b222-cb0d23f6b29c?ts=1699838164&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/0182559a-ee2d-4f60-b222-cb0d23f6b29c?ts=1699838164&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  },
+  {
+    "CarId": 20,
+    "Make": {
+      "MakeId": 10,
+      "MakeName": "Toyota"
+    },
+    "Model": "Corolla",
+    "Description": "The Toyota Corolla is a compact car known for its reliability and fuel efficiency. It has a straightforward design, practical features, and a reputation for low maintenance costs. The interior is functional, providing basic comfort and convenience. The Corolla is a sensible choice for those prioritizing practicality and affordability over luxury or performance.",
+    "Price": 29399.0,
+    "Color": "Green",
+    "VolumeOfEngine": 2.0,
+    "ImageUrl": "https://storage.prod.alpha-analytics.dev/resize/d8ee3314-41ca-4a5c-893c-6f2f563724a1?ts=1700292094&width=1225&height=919&fit=inside&withoutEnlargement=false",
+    "ImageThumbnailUrl": "https://storage.prod.alpha-analytics.dev/resize/d8ee3314-41ca-4a5c-893c-6f2f563724a1?ts=1700292094&width=500&height=450&fit=inside&withoutEnlargement=false",
+    "IsPreferredCar": false
+  }
+]

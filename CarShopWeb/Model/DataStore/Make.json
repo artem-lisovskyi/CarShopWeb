@@ -1,0 +1,42 @@
+[
+  {
+    "MakeId": 1,
+    "MakeName": "Audi"
+  },
+  {
+    "MakeId": 2,
+    "MakeName": "BMW"
+  },
+  {
+    "MakeId": 3,
+    "MakeName": "Chevrolet"
+  },
+  {
+    "MakeId": 4,
+    "MakeName": "Ford"
+  },
+  {
+    "MakeId": 5,
+    "MakeName": "Hyundai"
+  },
+  {
+    "MakeId": 6,
+    "MakeName": "Lexus"
+  },
+  {
+    "MakeId": 7,
+    "MakeName": "Mazda"
+  },
+  {
+    "MakeId": 8,
+    "MakeName": "Tesla"
+  },
+  {
+    "MakeId": 9,
+    "MakeName": "Nissan"
+  },
+  {
+    "MakeId": 10,
+    "MakeName": "Toyota"
+  }
+]
